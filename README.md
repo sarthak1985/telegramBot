@@ -1,5 +1,5 @@
 # telegramBot
-A Simple Telegram bot Developed in Google Sheet Script
+A Simple Telegram bot Developed in Google Apps Script
 
 | Commands               | Function                                                               | 
 | -------------          |------------------------------------------------------------------------|
